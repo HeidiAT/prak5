@@ -19,5 +19,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<a href="<?= base_url() ?>index.php/tentangkharisma">Tentang KHARISMA</a> <br>
 			<a href="<?= base_url() ?>index.php/web">Tentang Web</a> <br>
 			<a href="<?= base_url() ?>index.php/resep">Lima Resep Kuliner</a>
+	</div>
 </body>
 </html>
